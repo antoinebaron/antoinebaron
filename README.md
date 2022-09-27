@@ -1,6 +1,6 @@
 
 ## Hey! 👋
-I'm Antoine, I code all kind of stuff, but programming bots is my favorite hobbit.
+I'm Antoine, I code all kind of stuff. What's my favorite ? designing bots working for me.
 
 ## Skills
 - 👨‍💻 PHP, JavaScript
