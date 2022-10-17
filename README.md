@@ -1,6 +1,6 @@
 
 ## Hey! 👋
-I'm Antoine, I code all kind of stuff. My favorite ? designing bots to work for me.
+I'm Antoine, I code all kind of stuff. My favorite ? Building bots to automate my everyday work.
 
 ## Skills
 - 👨‍💻 PHP, JavaScript
